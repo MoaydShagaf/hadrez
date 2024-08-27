@@ -16,6 +16,20 @@
 },
 "home": {
     "welcome": "مرحبًا بك في هدرز",
-    "logoutButton": "تسجيل الخروج"
+    "logoutButton": "تسجيل الخروج",
+    "profile": "الملف الشخصي",
+    "menu": {
+    "profile": "الملف الشخصي",
+    "logout": "تسجيل الخروج"
+    }
+},
+"chatList": {
+    "title": "الدردشات",
+    "noChats": "لا توجد محادثات حتى الآن"
+},
+"chatScreen": {
+    "typeMessage": "اكتب رسالة...",
+    "sendButton": "إرسال",
+    "placeholder": "أرسل رسالة..."
 }
 }
