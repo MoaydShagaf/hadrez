@@ -1,0 +1,21 @@
+{
+"login": {
+    "title": "تسجيل الدخول",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "loginButton": "تسجيل الدخول",
+    "registerLink": "ليس لديك حساب؟ سجل الآن"
+},
+"register": {
+    "title": "سجل",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "registerButton": "سجل",
+    "loginLink": "هل لديك حساب بالفعل؟ تسجيل الدخول"
+},
+"home": {
+    "welcome": "مرحبًا بك في هدرز",
+    "logoutButton": "تسجيل الخروج"
+}
+}

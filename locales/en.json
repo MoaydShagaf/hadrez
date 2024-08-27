@@ -1,0 +1,21 @@
+{
+"login": {
+    "title": "Login",
+    "email": "Email",
+    "password": "Password",
+    "loginButton": "Login",
+    "registerLink": "Don't have an account? Register"
+},
+"register": {
+    "title": "Register",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "registerButton": "Register",
+    "loginLink": "Already have an account? Login"
+},
+"home": {
+    "welcome": "Welcome to Hadrez",
+    "logoutButton": "Logout"
+}
+}
